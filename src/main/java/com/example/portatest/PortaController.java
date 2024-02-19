@@ -2,9 +2,8 @@ package com.example.portatest;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
-import javafx.stage.FileChooser;
 
-public class HelloController {
+public class PortaController {
     @FXML
     private Label fileStatus;
 

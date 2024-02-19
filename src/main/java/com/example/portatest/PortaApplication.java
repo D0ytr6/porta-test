@@ -4,7 +4,6 @@ import javafx.application.Application;
 import javafx.application.Platform;
 import javafx.event.ActionEvent;
 import javafx.event.EventHandler;
-import javafx.fxml.FXMLLoader;
 import javafx.geometry.Insets;
 import javafx.geometry.Pos;
 import javafx.scene.Scene;
@@ -18,7 +17,7 @@ import java.io.*;
 import java.util.ArrayList;
 import java.util.Arrays;
 
-public class HelloApplication extends Application {
+public class PortaApplication extends Application {
 
     int maxValue = 0;
     int minValue = 0;
